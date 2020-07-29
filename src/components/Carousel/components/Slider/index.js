@@ -12,9 +12,10 @@ const Container = styled.ul`
     top: 0;
     bottom: 0;
     margin: auto;
-    width: 30px;
-    height: 30px;
+    background-color: #AF33C1;
+    opacity: 0.6;
     color: ${({arrowColor }) => arrowColor};
+   
     transform: initial;
     &:before {
       font-size: 40px;
@@ -24,9 +25,13 @@ const Container = styled.ul`
   
   .slick-prev {
     left: 0;
+    width: 70px;
+    height: 250px;
   }
   .slick-next {
-    right: 16px;
+    right: 0px;
+    width: 70px;
+    height: 250px;
   }
 `;
 
@@ -37,6 +42,9 @@ export const SliderItem = styled.li`
     width: 298px;
     height: 197px;
     object-fit: cover;
+    border: 10px solid; 
+    border-radius: 10px;
+    border-color: var(--primary);
   }
 `;
 
