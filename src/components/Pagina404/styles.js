@@ -6,7 +6,7 @@ h1,h3, h2 {
   color: var(--white);
 }
 span,h3,h2{
-  animation: animate 4s infinite;
+  animation: animate 6s infinite;
 }
 @keyframes animate {
   0%{
@@ -22,19 +22,19 @@ span,h3,h2{
 }
 #notfound {
   position: relative;
-  height: 100vh;
+   height: 100vh; 
   padding: 0;
-  margin: 0;
+  margin: 0; 
 }
 
 #notfound .notfound {
   position: absolute;
   left: 50%;
   top: 50%;
-  -webkit-transform: translate(-50%, -50%);
+   -webkit-transform: translate(-50%, -50%);
       -ms-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
-}
+} 
 .notfound {
   max-width: 520px;
   width: 100%;
@@ -57,7 +57,7 @@ span,h3,h2{
           transform: translate(-50%, -50%);
   font-size: 252px;
   font-weight: 900;
-  margin: 0px;
+  margin: 0px; 
   text-transform: uppercase;
   letter-spacing: -40px;
   margin-left: -20px;
@@ -73,7 +73,6 @@ span,h3,h2{
   font-size: 16px;
   font-weight: 700;
   text-transform: uppercase;
-  margin: 0px;
   letter-spacing: 3px;
   padding-left: 6px;
 }
@@ -83,8 +82,6 @@ span,h3,h2{
   font-size: 20px;
   font-weight: 400;
   text-transform: uppercase;
-  margin-top: 20px;
-  margin-bottom: 25px;
 }
 `;
 
