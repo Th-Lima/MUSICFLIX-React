@@ -13,7 +13,7 @@ const Container = styled.ul`
     bottom: 0;
     margin: auto;
     background-color: #AF33C1;
-    opacity: 0.6;
+    opacity: 0.5;
     color: ${({arrowColor }) => arrowColor};
    
     transform: initial;
@@ -25,12 +25,12 @@ const Container = styled.ul`
   
   .slick-prev {
     left: 0;
-    width: 70px;
+    width: 40px;
     height: 250px;
   }
   .slick-next {
     right: 0px;
-    width: 70px;
+    width: 40px;
     height: 250px;
   }
 `;
