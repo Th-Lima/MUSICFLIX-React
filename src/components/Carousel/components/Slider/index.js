@@ -15,6 +15,9 @@ const Container = styled.ul`
     background-color: #AF33C1;
     opacity: 0.5;
     color: ${({arrowColor }) => arrowColor};
+    width: 40px;
+    height: 253px;
+    border-radius: 5px;
    
     transform: initial;
     &:before {
@@ -25,13 +28,9 @@ const Container = styled.ul`
   
   .slick-prev {
     left: 0;
-    width: 40px;
-    height: 250px;
   }
   .slick-next {
     right: 0px;
-    width: 40px;
-    height: 250px;
   }
 `;
 
