@@ -112,10 +112,10 @@ export const WatchButton = styled.button`
   border-radius: 5px;
   text-decoration: none;
   display: inline-block;
-  border: 1px solid transparent;
-  color: var(--black);
-  background: var(--white);
-  border-color: var(--black);
+  border: 2px solid transparent;
+  color: var(--white);
+  background: var(--black);
+  border-color: var(--primary);
   transition: opacity .3s;
   display: none;
   margin: 0 auto;
