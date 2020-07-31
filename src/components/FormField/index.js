@@ -63,7 +63,6 @@ const Input = styled.input`
   
   ${({ value }) => {
     const hasValue = value.length > 0;
-    console.log(hasValue);
     return hasValue && css`
          &:not([type='anyOther']) + ${Label.Text} {
           transform: scale(.6) translateY(-10px);

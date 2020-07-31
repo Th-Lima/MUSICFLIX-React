@@ -1,5 +1,5 @@
 /* eslint-disable react/jsx-one-expression-per-line */
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import PageDefault from '../../../components/PageDefault';
 import FormField from '../../../components/FormField';
@@ -24,6 +24,20 @@ function CadastroCategoria() {
     infos.target.getAttribute('name'),
     infos.target.value,
   );
+
+  useEffect(() => {
+    const URL = 'http://localhost:8080/categorias';
+    fetch(URL)
+      .then(async (serverResponse) => {
+        const response = await serverResponse.json();
+        setCategorias([
+          ...response,
+        ]);
+      });
+  },
+  [
+    values.nome,
+  ]);
 
   return (
     <PageDefault>
@@ -57,6 +71,12 @@ function CadastroCategoria() {
           value={values.descricao}
           onChange={handleChange}
         />
+        {categorias.length === 0 && (
+        <div>
+          <h2>Carregando ...</h2>
+        </div>
+        )}
+
         <ul>
           {categorias.map((categoria) => (
             <li key={`${categoria.nome}`}>
