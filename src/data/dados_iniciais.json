@@ -1,50 +1,82 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Músicas",
+      "link": "",
       "cor": "#000000",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "God of War - Trailer em Português | PS4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE&t=18s"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Lil Wayne - Mirror ft. Bruno Mars (Official Music Video)",
+          "url": "https://www.youtube.com/watch?v=OZLUa8JUR18"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Chris Brown - No Guidance (Official Video) ft. Drake",
+          "url": "https://www.youtube.com/watch?v=6L_k74BOLag"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Tyga - Taste (Official Video) ft. Offset",
+          "url": "https://www.youtube.com/watch?v=LjxulQ1bEWg"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Migos - Slippery feat. Gucci Mane [Official Video]",
+          "url": "https://www.youtube.com/watch?v=Hm1YFszJWbQ"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "21 Savage, Offset, Metro Boomin - Ric Flair Drip (Official Music Video)",
+          "url": "https://www.youtube.com/watch?v=LPTlvQ1Zet0"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Lil Wayne - Love Me ft. Drake, Future (Explicit) (Official Music Video)",
+          "url": "https://www.youtube.com/watch?v=KY44zvhWhp4"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Young Thug - Check (Official Music Video)",
+          "url": "https://www.youtube.com/watch?v=p0x6FEDV-ig"
+        },
+        {
+          "titulo": "Kevin Gates - 2 Phones [Official Music Video]",
+          "url": "https://www.youtube.com/watch?v=oiY_iKSpWLM"
+        },
+        {
+          "titulo": "Chris Brown - Love More (Explicit) ft. Nicki Minaj",
+          "url": "https://www.youtube.com/watch?v=Tff2oE31Mlw"
+        }, 
+        {
+          "titulo": "SAINt JHN - Roses [Official Music Video]",
+          "url": "https://www.youtube.com/watch?v=XHA-QM-q-3E"
+        },
+        {
+          "titulo": "Future - Low Life (Official Music Video) ft. The Weeknd",
+          "url": "https://www.youtube.com/watch?v=K_9tX4eHztY"
+        },
+        {
+          "titulo": "Ty Dolla $ign - Or Nah ft. The Weeknd, Wiz Khalifa & DJ Mustard [Music Video]",
+          "url": "https://www.youtube.com/watch?v=TUj0otkJEBo"
+        },
+        {
+          "titulo": "Drake - Toosie Slide",
+          "url": "https://www.youtube.com/watch?v=xWggTb45brM"
+        },
+        {
+          "titulo": "Travis Scott - HIGHEST IN THE ROOM (Official Music Video)",
+          "url": "https://www.youtube.com/watch?v=tfSS1e3kYeo"
+        },
+        {
+          "titulo": "Roddy Ricch - The Box [Official Music Video]",
+          "url": "https://www.youtube.com/watch?v=UNZqm3dxd2w"
+        }
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Tecnologia",
       "cor": "#000000" ,
       "link_extra": {
         "text": "Cursos de Back End na Alura",
@@ -74,7 +106,7 @@
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Humor",
       "cor": "#000000",
       "link_extra": {
         "text": "Cursos de Data Science na Alura",
@@ -152,7 +184,7 @@
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Entretenimento",
       "cor": "#000000",
       "link_extra": {
         "text": "Curso sobre aprendizado na Alura",
