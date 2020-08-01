@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 import PageDefault from '../../../components/PageDefault';
 import FormField from '../../../components/FormField';
 import Button from '../../../components/Button';
+import Loading from '../../../components/Loading';
 
 function CadastroCategoria() {
   const valoresIniciais = {
@@ -26,7 +27,11 @@ function CadastroCategoria() {
   );
 
   useEffect(() => {
-    const URL = 'http://localhost:8080/categorias';
+    const isLocalhost = window.location.hostname.includes('localhost');
+    const URL = isLocalhost
+      ? 'http://localhost:8080/categorias'
+      : 'https://t8flix.herokuapp.com/categorias';
+
     fetch(URL)
       .then(async (serverResponse) => {
         const response = await serverResponse.json();
@@ -72,9 +77,7 @@ function CadastroCategoria() {
           onChange={handleChange}
         />
         {categorias.length === 0 && (
-        <div>
-          <h2>Carregando ...</h2>
-        </div>
+        <Loading />
         )}
 
         <ul>
