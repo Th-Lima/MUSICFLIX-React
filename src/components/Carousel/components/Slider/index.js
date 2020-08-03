@@ -1,4 +1,3 @@
-/* eslint-disable react/jsx-props-no-spreading */
 import React from 'react';
 import SlickSlider from 'react-slick';
 import styled from 'styled-components';
@@ -14,7 +13,7 @@ const Container = styled.ul`
     margin: auto;
     background-color: #AF33C1;
     opacity: 0.5;
-    color: ${({arrowColor }) => arrowColor};
+    color: ${({ arrowColor }) => arrowColor};
     width: 40px;
     height: 253px;
     border-radius: 5px;
@@ -22,7 +21,7 @@ const Container = styled.ul`
     transform: initial;
     &:before {
       font-size: 40px;
-      color: ${({arrowColor }) => arrowColor};
+      color: ${({ arrowColor }) => arrowColor};
     }
   }
   
@@ -30,7 +29,7 @@ const Container = styled.ul`
     left: 0;
   }
   .slick-next {
-    right: 0px;
+    right: 0;
   }
 `;
 
@@ -46,7 +45,6 @@ export const SliderItem = styled.li`
     border-color: var(--primary);
   }
 `;
-
 
 const Slider = ({ arrowColor, children }) => (
   <Container arrowColor={arrowColor}>
@@ -64,4 +62,4 @@ const Slider = ({ arrowColor, children }) => (
   </Container>
 );
 
-export default Slider; 
+export default Slider;
