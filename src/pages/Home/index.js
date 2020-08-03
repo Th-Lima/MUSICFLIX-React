@@ -3,7 +3,7 @@ import Menu from '../../components/Menu';
 import dadosIniciais from '../../data/dados_iniciais.json';
 import BannerMain from '../../components/BannerMain';
 import Carousel from '../../components/Carousel';
-import Footer from  '../../components/Footer';
+import Footer from '../../components/Footer';
 
 function Home() {
   return (
@@ -19,6 +19,7 @@ function Home() {
         apresenta o poder de transformação da música visto por diferentes espectros sociais e reflete sobre uma questão: quais sensações essa arte traz para as nossas vidas?`
       }
       />
+      <h2>Aprenda a tocar seu instrumento favorito!</h2>
       <Carousel
         ignoreFirstVideo
         category={dadosIniciais.categorias[0]}
