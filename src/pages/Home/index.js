@@ -13,9 +13,10 @@ function Home() {
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
         videoDescription={
-        `Um Novo Começo — Após se vingar dos deuses do Olimpo, 
-        Kratos agora vive como um mortal nas terras dos Deuses Nórdicos e monstros. 
-        É neste mundo inóspito e terrível que ele deve lutar para sobreviver… e ensinar o seu filho a fazer o mesmo.`
+        `O documentário "Ensaio sobre a Música", 
+        produzido em parceria entre o Reverb e o Rock in Rio com a produtora La Casa de la Madre, 
+        procura refletir sobre os significados da música para cada pessoa. O filme, que tem direção e roteiro de André Castilho e Pedro Miguel Oliveira, 
+        apresenta o poder de transformação da música visto por diferentes espectros sociais e reflete sobre uma questão: quais sensações essa arte traz para as nossas vidas?`
       }
       />
       <Carousel

@@ -1,7 +1,7 @@
 {
   "categorias": [
     {
-      "titulo": "Músicas",
+      "titulo": "Bateria",
       "link": "",
       "cor": "#000000",
       "link_extra": {
@@ -10,206 +10,222 @@
       },
       "videos": [
         {
-          "titulo": "God of War - Trailer em Português | PS4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE&t=18s"
+          "titulo": "Documentário - Ensaio sobre a Música",
+          "url": "https://www.youtube.com/watch?v=UGX99o4noWw"
         },
         {
-          "titulo": "Lil Wayne - Mirror ft. Bruno Mars (Official Music Video)",
-          "url": "https://www.youtube.com/watch?v=OZLUa8JUR18"
+          "titulo": "Curso de Bateria Grátis - Aula 04: Baterista Precisa Saber Marcar o Tempo",
+          "url": "https://www.youtube.com/watch?v=-TlmF0kfFbg&list=PLDE_lgCyeyiiqQak4BuIyRmQv4veVctlV&index=1"
         },
         {
-          "titulo": "Chris Brown - No Guidance (Official Video) ft. Drake",
-          "url": "https://www.youtube.com/watch?v=6L_k74BOLag"
+          "titulo": "COMO TOCAR 10 RITMOS MAIS USADOS - AULA DE BATERIA",
+          "url": "https://www.youtube.com/watch?v=-9CfE1IXnK0"
         },
         {
-          "titulo": "Tyga - Taste (Official Video) ft. Offset",
-          "url": "https://www.youtube.com/watch?v=LjxulQ1bEWg"
+          "titulo": "Bateria: Primeiros Exercícios com o Pad!",
+          "url": "https://www.youtube.com/watch?v=bcXgFJMtLHw"
         },
         {
-          "titulo": "Migos - Slippery feat. Gucci Mane [Official Video]",
-          "url": "https://www.youtube.com/watch?v=Hm1YFszJWbQ"
+          "titulo": "Rudimentos - #1 Toque Simples - 40 Rudimentos P.A.S. por Guimadrum",
+          "url": "https://www.youtube.com/watch?v=mIahHlpmv2I"
         },
         {
-          "titulo": "21 Savage, Offset, Metro Boomin - Ric Flair Drip (Official Music Video)",
-          "url": "https://www.youtube.com/watch?v=LPTlvQ1Zet0"
+          "titulo": "PEDAL DUPLO INICIANTE - aulas de bateria",
+          "url": "https://www.youtube.com/watch?v=7CN6vQXd_tQ"
         },
         {
-          "titulo": "Lil Wayne - Love Me ft. Drake, Future (Explicit) (Official Music Video)",
-          "url": "https://www.youtube.com/watch?v=KY44zvhWhp4"
+          "titulo": "COMO TOCAR O GROOVE DE UPRISING DO MUSE | BATERA DE APARTAMENTO | GROOVE DA MÚSICA",
+          "url": "https://www.youtube.com/watch?v=qhjT2ejk_2c"
         },
         {
-          "titulo": "Young Thug - Check (Official Music Video)",
-          "url": "https://www.youtube.com/watch?v=p0x6FEDV-ig"
+          "titulo": "VIRADAS SIMPLES, PORÉM BONITAS",
+          "url": "https://www.youtube.com/watch?v=Nq36eGxFcSU"
         },
         {
-          "titulo": "Kevin Gates - 2 Phones [Official Music Video]",
-          "url": "https://www.youtube.com/watch?v=oiY_iKSpWLM"
-        },
-        {
-          "titulo": "Chris Brown - Love More (Explicit) ft. Nicki Minaj",
-          "url": "https://www.youtube.com/watch?v=Tff2oE31Mlw"
-        }, 
-        {
-          "titulo": "SAINt JHN - Roses [Official Music Video]",
-          "url": "https://www.youtube.com/watch?v=XHA-QM-q-3E"
-        },
-        {
-          "titulo": "Future - Low Life (Official Music Video) ft. The Weeknd",
-          "url": "https://www.youtube.com/watch?v=K_9tX4eHztY"
-        },
-        {
-          "titulo": "Ty Dolla $ign - Or Nah ft. The Weeknd, Wiz Khalifa & DJ Mustard [Music Video]",
-          "url": "https://www.youtube.com/watch?v=TUj0otkJEBo"
-        },
-        {
-          "titulo": "Drake - Toosie Slide",
-          "url": "https://www.youtube.com/watch?v=xWggTb45brM"
-        },
-        {
-          "titulo": "Travis Scott - HIGHEST IN THE ROOM (Official Music Video)",
-          "url": "https://www.youtube.com/watch?v=tfSS1e3kYeo"
-        },
-        {
-          "titulo": "Roddy Ricch - The Box [Official Music Video]",
-          "url": "https://www.youtube.com/watch?v=UNZqm3dxd2w"
+          "titulo": "Aplicando Técnicas no Chimbal",
+          "url": "https://www.youtube.com/watch?v=IPyYY-uiD1k"
         }
       ]
     },
     {
-      "titulo": "Tecnologia",
+      "titulo": "Guitarra",
       "cor": "#000000" ,
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "GUITARRA PARA INICIANTES 1 - COMO COMEÇAR?",
+          "url": "https://www.youtube.com/watch?v=X3182sxwuuU"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Exercícios Cromáticos e Figuras Rítmicas (Aula 13) - Curso Grátis de Guitarra para Iniciantes",
+          "url": "https://www.youtube.com/watch?v=dh7yn7c09GY&list=PL19fL74WZJO9VatMFzLsZsWyGREIZ8-AY&index=14"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Como adquirir VELOCIDADE na guitarra - Dica simples",
+          "url": "https://www.youtube.com/watch?v=OSNYGC9uO7s"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Solando qualquer música na guitarra - Israel Rodrigues",
+          "url": "https://www.youtube.com/watch?v=gmsmuI-o4gw"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Harmonizando a Pentatônica - Turbo Guitar #128",
+          "url": "https://www.youtube.com/watch?v=n9n9L79x-8A"
+        },
+        {
+          "titulo": "Como Tocar Guitarra: Tocando sua primeira música",
+          "url": "https://www.youtube.com/watch?v=lphZkJhauD0"
         }
       ]
     },
     {
-      "titulo": "Humor",
+      "titulo": "Violão",
       "cor": "#000000",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Aula 1 de Violão iniciante Nível Zero",
+          "url": "https://www.youtube.com/watch?v=jt9oRHFpZfs"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Como Tocar Violão: Tocando sua primeira música",
+          "url": "https://www.youtube.com/watch?v=2Rsz3JEbw0Y"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "5 MÚSICAS FÁCEIS para tocar no VIOLÃO e IMPRESSSIONAR no rolê",
+          "url": "https://www.youtube.com/watch?v=vDqKIWOri8M"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Aula de Violão: Top 10 MÚSICAS que todo iniciante deveria saber! (sem pestana)",
+          "url": "https://www.youtube.com/watch?v=so4hQASO6U0"
+        },
+        {
+          "titulo": "6 MELHORES MÚSICAS PRA TOCAR NO BAR",
+          "url": "https://www.youtube.com/watch?v=doE-mNaoHlY"
+        },
+        {
+          "titulo": "INICIANTE, COMECE A TOCAR VIOLÃO HOJE! 'OS 3 PRIMEIROS ACORDES' | Curso Completo Link na Descrição",
+          "url": "https://www.youtube.com/watch?v=EN-CMNWry7s"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Teclado",
       "cor": "#000000",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Aula de Teclado 01 - Primeira Aula para INICIANTES",
+          "url": "https://www.youtube.com/watch?v=dvike1DQuXs"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Toque teclado em 10 minutos! (Aula de teclado para iniciantes)",
+          "url": "https://www.youtube.com/watch?v=KKVKOz37D6w"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Como tocar teclado: tocando sua primeira música",
+          "url": "https://www.youtube.com/watch?v=SkloFAYY3Yo"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "The Scientist - Coldplay (como tocar - aula de teclado)",
+          "url": "https://www.youtube.com/watch?v=w8YYzLaXpGw"
+        },
+        {
+          "titulo": "Como Tocar 8 MÚSICAS no Teclado com apenas 4 Acordes",
+          "url": "https://www.youtube.com/watch?v=VtODATYE270"
+        },
+        {
+          "titulo": "7 DICAS PARA UM ACOMPANHAMENTO MAIS PROFISSIONAL",
+          "url": "https://www.youtube.com/watch?v=uT9Se0lUkkE"
+        },
+        {
+          "titulo": "APRENDA COMO TOCAR CIFRAS",
+          "url": "https://www.youtube.com/watch?v=_oiokpjP1O4"
+        },
+        {
+          "titulo": "Como tocar qualquer música na partitura! (Teclado)",
+          "url": "https://www.youtube.com/watch?v=vY31tfB927c"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Contrabaixo",
       "cor": "#000000",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "LOSE YOURSELF TO DANCE - Daft Punk | Como tocar no baixo",
+          "url": "https://www.youtube.com/watch?v=XHQ5E6Yvga0&list=PLE26448C9311243A8"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "LINHAS DE BAIXO PARA INICIANTES",
+          "url": "https://www.youtube.com/watch?v=2ERStv4oclQ"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Contrabaixo Iniciante #04 - Exercícios de Ritmo do Contrabaixo (Com Tato Mafuzzo)",
+          "url": "https://www.youtube.com/watch?v=-QbgLbDxlR8"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "5 Tipos de LEVADAS para Tocar no mesmo Ritmo de Bateria",
+          "url": "https://www.youtube.com/watch?v=KQvxI8V51sA"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Toque Contrabaixo em 10 minutos! (Aula de Baixo para iniciantes)",
+          "url": "https://www.youtube.com/watch?v=HL5HnA_ZOcw&t=165s"
+        },
+        {
+          "titulo": "Aula Zero de Contrabaixo Iniciante | Aprenda Sozinho | Primeiros Acordes",
+          "url": "https://www.youtube.com/watch?v=14Vlhz14zcY"
+        },
+        {
+          "titulo": "Exercício Essencial Para Coordenação das Mãos (AULA 2) - Aprenda Contrabaixo do Zero",
+          "url": "https://www.youtube.com/watch?v=k1S56PfDsro"
+        },
+        {
+          "titulo": "Aprenda ContraBaixo Fácil - Aula 2 Iniciante / Comece do Zero / Primeiros Passos Baixo",
+          "url": "https://www.youtube.com/watch?v=NZqfwKUU_lk"
         }
       ]
     },
     {
-      "titulo": "Entretenimento",
+      "titulo": "Documentários",
       "cor": "#000000",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Wilson Simonal- Ninguém sabe o duro que dei Docs Completo",
+          "url": "https://www.youtube.com/watch?v=ItVY5xs3_VM"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Charles Bradley - Soul of America",
+          "url": "https://www.youtube.com/watch?v=dOnMsDZdgcc"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Alive Inside : A Música Vivifica a Memória (Documentário Completo)",
+          "url": "https://www.youtube.com/watch?v=-Osj6-W9hs4&t=109s"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "BOTINADA (The Rise of Punk Rock in Brazil) - directed by Gastão Moreira",
+          "url": "https://www.youtube.com/watch?v=trIAXkc003k"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Get Thrashed: The Story of Thrash Metal",
+          "url": "https://www.youtube.com/watch?v=q_TBvw2PWwg"
+        },
+        {
+          "titulo": "'Krautrock –The Rebirth of Germany' (2009) [English/Français/Español/Italiano/Portugués subs] BBC 4",
+          "url": "https://www.youtube.com/watch?v=QP5dOKTB3ng"
         }
       ]
     }
