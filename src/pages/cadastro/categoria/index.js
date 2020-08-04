@@ -22,7 +22,7 @@ function CadastroCategoria() {
       ? 'http://localhost:8080/categorias'
       : 'https://t8flix.herokuapp.com/categorias';
 
-    fetch(URL, { mode: 'cors' })
+    fetch(URL, { mode: 'no-cors' })
       .then(async (serverResponse) => {
         const response = await serverResponse.json();
         setCategorias([
