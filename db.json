@@ -2,15 +2,293 @@
   "categorias": [
     {
     "id": 1,
-    "nome": "Músicas",
+    "titulo": "Bateria",
     "descricao": "",
     "cor": "#000000"
     },
     {
       "id": 2,
-      "nome": "Tecnologia",
+      "titulo": "Guitarra",
       "descricao": "",
       "cor": "#000000"
+    },
+    {
+      "id": 3,
+      "titulo": "Violão",
+      "descricao": "",
+      "cor": "#000000"
+    },
+    {
+      "id": 4,
+      "titulo": "Teclado",
+      "descricao": "",
+      "cor": "#000000"
+    },
+    {
+      "id": 5,
+      "titulo": "Contrabaixo",
+      "descricao": "",
+      "cor": "#000000"
+    },
+    {
+      "id": 6,
+      "titulo": "Documentários",
+      "descricao": "",
+      "cor": "#000000"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Documentário - Ensaio sobre a Música",
+      "url": "https://www.youtube.com/watch?v=UGX99o4noWw"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Bateria: Primeiros Exercícios com o Pad!",
+      "url": "https://www.youtube.com/watch?v=bcXgFJMtLHw"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Rudimentos - #1 Toque Simples - 40 Rudimentos P.A.S. por Guimadrum",
+      "url": "https://www.youtube.com/watch?v=mIahHlpmv2I"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "PEDAL DUPLO INICIANTE - aulas de bateria",
+      "url": "https://www.youtube.com/watch?v=7CN6vQXd_tQ"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "COMO TOCAR O GROOVE DE UPRISING DO MUSE | BATERA DE APARTAMENTO | GROOVE DA MÚSICA",
+      "url": "https://www.youtube.com/watch?v=qhjT2ejk_2c"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "VIRADAS SIMPLES, PORÉM BONITAS",
+      "url": "https://www.youtube.com/watch?v=Nq36eGxFcSU"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "Aplicando Técnicas no Chimbal",
+      "url": "https://www.youtube.com/watch?v=IPyYY-uiD1k"
+    },
+    {
+      "id": 8,
+      "categoriaId": 1,
+      "titulo": "COMO TOCAR 10 RITMOS MAIS USADOS - AULA DE BATERIA",
+      "url": "https://www.youtube.com/watch?v=-9CfE1IXnK0"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "GUITARRA PARA INICIANTES 1 - COMO COMEÇAR?",
+      "url": "https://www.youtube.com/watch?v=X3182sxwuuU"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Exercícios Cromáticos e Figuras Rítmicas (Aula 13) - Curso Grátis de Guitarra para Iniciantes",
+      "url": "https://www.youtube.com/watch?v=dh7yn7c09GY&list=PL19fL74WZJO9VatMFzLsZsWyGREIZ8-AY&index=14"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "Como adquirir VELOCIDADE na guitarra - Dica simples",
+      "url": "https://www.youtube.com/watch?v=OSNYGC9uO7s"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "Solando qualquer música na guitarra - Israel Rodrigues",
+      "url": "https://www.youtube.com/watch?v=gmsmuI-o4gw"
+    },
+    {
+      "id": 13,
+      "categoriaId": 2,
+      "titulo": "Harmonizando a Pentatônica - Turbo Guitar #128",
+      "url": "https://www.youtube.com/watch?v=n9n9L79x-8A"
+    },
+    {
+      "id": 14,
+      "categoriaId": 2,
+      "titulo": "Como Tocar Guitarra: Tocando sua primeira música",
+      "url": "https://www.youtube.com/watch?v=lphZkJhauD0"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "Aula 1 de Violão iniciante Nível Zero",
+      "url": "https://www.youtube.com/watch?v=jt9oRHFpZfs"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "Como Tocar Violão: Tocando sua primeira música",
+      "url": "https://www.youtube.com/watch?v=2Rsz3JEbw0Y"
+    },
+    {
+      "id": 17,
+      "categoriaId": 3,
+      "titulo": "5 MÚSICAS FÁCEIS para tocar no VIOLÃO e IMPRESSSIONAR no rolê",
+      "url": "https://www.youtube.com/watch?v=vDqKIWOri8M"
+    },
+    {
+      "id": 18,
+      "categoriaId": 3,
+      "titulo": "Aula de Violão: Top 10 MÚSICAS que todo iniciante deveria saber! (sem pestana)",
+      "url": "https://www.youtube.com/watch?v=so4hQASO6U0"
+    },
+    {
+      "id": 19,
+      "categoriaId": 3,
+      "titulo": "6 MELHORES MÚSICAS PRA TOCAR NO BAR",
+      "url": "https://www.youtube.com/watch?v=doE-mNaoHlY"
+    },
+    {
+      "id": 20,
+      "categoriaId": 3,
+      "titulo": "INICIANTE, COMECE A TOCAR VIOLÃO HOJE! 'OS 3 PRIMEIROS ACORDES' | Curso Completo Link na Descrição",
+      "url": "https://www.youtube.com/watch?v=EN-CMNWry7s"
+    },
+    {
+      "id": 21,
+      "categoriaId": 4,
+      "titulo": "Aula de Teclado 01 - Primeira Aula para INICIANTES",
+      "url": "https://www.youtube.com/watch?v=dvike1DQuXs"
+    },
+    {
+      "id": 22,
+      "categoriaId": 4,
+      "titulo": "Toque teclado em 10 minutos! (Aula de teclado para iniciantes)",
+      "url": "https://www.youtube.com/watch?v=KKVKOz37D6w"
+    },
+    {
+      "id": 23,
+      "categoriaId": 4,
+      "titulo": "Como tocar teclado: tocando sua primeira música",
+      "url": "https://www.youtube.com/watch?v=SkloFAYY3Yo"
+    },
+    {
+      "id": 24,
+      "categoriaId": 4,
+      "titulo": "The Scientist - Coldplay (como tocar - aula de teclado)",
+      "url": "https://www.youtube.com/watch?v=w8YYzLaXpGw"
+    },
+    {
+      "id": 25,
+      "categoriaId": 4,
+      "titulo": "Como Tocar 8 MÚSICAS no Teclado com apenas 4 Acordes",
+      "url": "https://www.youtube.com/watch?v=VtODATYE270"
+    },
+    {
+      "id": 26,
+      "categoriaId": 4,
+      "titulo": "7 DICAS PARA UM ACOMPANHAMENTO MAIS PROFISSIONAL",
+      "url": "https://www.youtube.com/watch?v=uT9Se0lUkkE"
+    },
+    {
+      "id": 27,
+      "categoriaId": 4,
+      "titulo": "APRENDA COMO TOCAR CIFRAS",
+      "url": "https://www.youtube.com/watch?v=_oiokpjP1O4"
+    },
+    {
+      "id": 27,
+      "categoriaId": 4,
+      "titulo": "Como tocar qualquer música na partitura! (Teclado)",
+      "url": "https://www.youtube.com/watch?v=vY31tfB927c"
+    },
+    {
+      "id": 28,
+      "categoriaId": 5,
+      "titulo": "LOSE YOURSELF TO DANCE - Daft Punk | Como tocar no baixo",
+      "url": "https://www.youtube.com/watch?v=XHQ5E6Yvga0&list=PLE26448C9311243A8"
+    },
+    {
+      "id": 29,
+      "categoriaId": 5,
+      "titulo": "LINHAS DE BAIXO PARA INICIANTES",
+      "url": "https://www.youtube.com/watch?v=2ERStv4oclQ"
+    },
+    {
+      "id": 30,
+      "categoriaId": 5,
+      "titulo": "Contrabaixo Iniciante #04 - Exercícios de Ritmo do Contrabaixo (Com Tato Mafuzzo)",
+      "url": "https://www.youtube.com/watch?v=-QbgLbDxlR8"
+    },
+    {
+      "id": 31,
+      "categoriaId": 5,
+      "titulo": "5 Tipos de LEVADAS para Tocar no mesmo Ritmo de Bateria",
+      "url": "https://www.youtube.com/watch?v=KQvxI8V51sA"
+    },
+    {
+      "id": 31,
+      "categoriaId": 5,
+      "titulo": "Toque Contrabaixo em 10 minutos! (Aula de Baixo para iniciantes)",
+      "url": "https://www.youtube.com/watch?v=HL5HnA_ZOcw&t=165s"
+    },
+    {
+      "id": 32,
+      "categoriaId": 5,
+      "titulo": "Aula Zero de Contrabaixo Iniciante | Aprenda Sozinho | Primeiros Acordes",
+      "url": "https://www.youtube.com/watch?v=14Vlhz14zcY"
+    },
+    {
+      "id": 33,
+      "categoriaId": 5,
+      "titulo": "Exercício Essencial Para Coordenação das Mãos (AULA 2) - Aprenda Contrabaixo do Zero",
+      "url": "https://www.youtube.com/watch?v=k1S56PfDsro"
+    },
+    {
+      "id": 34,
+      "categoriaId": 5,
+      "titulo": "Aprenda ContraBaixo Fácil - Aula 2 Iniciante / Comece do Zero / Primeiros Passos Baixo",
+      "url": "https://www.youtube.com/watch?v=NZqfwKUU_lk"
+    },
+    {
+      "id": 35,
+      "categoriaId": 6,
+      "titulo": "Wilson Simonal- Ninguém sabe o duro que dei Docs Completo",
+      "url": "https://www.youtube.com/watch?v=ItVY5xs3_VM"
+    },
+    {
+      "id": 36,
+      "categoriaId": 6,
+      "titulo": "Charles Bradley - Soul of America",
+      "url": "https://www.youtube.com/watch?v=dOnMsDZdgcc"
+    },
+    {
+      "id": 37,
+      "categoriaId": 6,
+      "titulo": "Alive Inside : A Música Vivifica a Memória (Documentário Completo)",
+      "url": "https://www.youtube.com/watch?v=-Osj6-W9hs4&t=109s"
+    },
+    {
+      "id": 38,
+      "categoriaId": 6,
+      "titulo": "BOTINADA (The Rise of Punk Rock in Brazil) - directed by Gastão Moreira",
+      "url": "https://www.youtube.com/watch?v=trIAXkc003k"
+    },
+    {
+      "id": 36,
+      "categoriaId": 6,
+      "titulo": "Get Thrashed: The Story of Thrash Metal",
+      "url": "https://www.youtube.com/watch?v=q_TBvw2PWwg"
+    },
+    {
+      "id": 36,
+      "categoriaId": 6,
+      "titulo": "'Krautrock –The Rebirth of Germany' (2009) [English/Français/Español/Italiano/Portugués subs] BBC 4",
+      "url": "https://www.youtube.com/watch?v=QP5dOKTB3ng"
     }
   ]
 }
