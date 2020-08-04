@@ -35,6 +35,7 @@ export default function Home() {
                 procura refletir sobre os significados da música para cada pessoa. O filme, que tem direção e roteiro de André Castilho e Pedro Miguel Oliveira,
                 apresenta o poder de transformação da música visto por diferentes espectros sociais e reflete sobre uma questão: quais sensações essa arte traz para as nossas vidas?'
               />
+              <h2>Aprenda a tocar seu instrumento favorito!</h2>
               <Carousel
                 ignoreFirstVideo
                 category={dadosIniciais[0]}

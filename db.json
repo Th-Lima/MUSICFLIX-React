@@ -1,10 +1,10 @@
 {
   "categorias": [
     {
-    "id": 1,
-    "titulo": "Bateria",
-    "descricao": "",
-    "cor": "#000000"
+      "id": 1,
+      "titulo": "Bateria",
+      "descricao": "",
+      "cor": "#000000"
     },
     {
       "id": 2,
@@ -289,6 +289,12 @@
       "categoriaId": 6,
       "titulo": "'Krautrock –The Rebirth of Germany' (2009) [English/Français/Español/Italiano/Portugués subs] BBC 4",
       "url": "https://www.youtube.com/watch?v=QP5dOKTB3ng"
+    },
+    {
+      "titulo": "Guitarra Rítmica Heavy Metal - Parte 1 + e-book grátis",
+      "url": "https://www.youtube.com/watch?v=TlKy0VZob_k",
+      "categoriaId": 2,
+      "id": 41
     }
   ]
 }
