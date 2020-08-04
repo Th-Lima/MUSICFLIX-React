@@ -20,7 +20,7 @@ function CadastroCategoria() {
     const isLocalhost = window.location.hostname.includes('localhost');
     const URL = isLocalhost
       ? 'http://localhost:8080/categorias'
-      : 'https://t8flix.herokuapp.com/categorias';
+      : 'https://musicflix-react.herokuapp.com/categorias';
 
     fetch(URL, { mode: 'no-cors' })
       .then(async (serverResponse) => {
