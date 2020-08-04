@@ -22,7 +22,7 @@ function CadastroCategoria() {
       ? 'http://localhost:8080/categorias'
       : 'https://musicflix-react.herokuapp.com/categorias';
 
-    fetch(URL, { mode: 'no-cors' })
+    fetch(URL/* { mode: 'no-cors' } */)
       .then(async (serverResponse) => {
         const response = await serverResponse.json();
         setCategorias([
